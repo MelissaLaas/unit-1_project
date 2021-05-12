@@ -13,11 +13,11 @@ body {
 }
 /* Link Styles */
 
-a {
+a{
   text-decoration: none;
   color: #999;
 }
-a:hover {
+a:hover{
   color: #6633ff;
 }
 
@@ -56,7 +56,7 @@ a:hover {
 
 header {
   text-align: center;
-  background: url('images/new_background1.JPG') no-repeat top center ;
+  background: url('images/new_background.JPG') no-repeat top center ;
   background-size: cover;
   overflow: hidden;
   padding-top: 60px;
@@ -78,7 +78,7 @@ header .profile-image:hover {
 
 article {
   text-align:center;
-  background: url(images/new_background1.JPG) no-repeat top center ;
+  background: url(images/new_background.JPG) no-repeat top center ;
   color:rgb(0, 0, 0);
   background-size: cover;
   overflow: hidden;
